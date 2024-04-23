@@ -21,8 +21,5 @@ Este é um simples gerenciador de tarefas desenvolvido utilizando HTML, CSS e Ja
 
 Não há pré-requisitos específicos para executar este projeto. Basta ter um navegador web instalado no seu computador.
 
-## Contribuindo
-
-Contribuições são bem-vindas! Se você tiver ideias para melhorar este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 
